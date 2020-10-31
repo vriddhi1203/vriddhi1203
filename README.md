@@ -6,5 +6,5 @@
 - 💬 Ask me about DS and Algo(though I'm still practising it :-))
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: If not coding you'll probably find me listening songs or singing
+- ⚡ Fun fact: If not coding you'll probably find me listening to songs or singing
 -->
