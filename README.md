@@ -1,4 +1,4 @@
-### HOLAA!! Welcome to my GitHub world 👋 
+### Bonjour!! Welcome to my GitHub world 👋 
 
 - 🔭 I’m currently working on my programming skills, DS, Algo and Android Development
 - 🌱 I’m currently learning Android Development and practising Competitve Programming
