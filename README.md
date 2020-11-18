@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with Projects on android in both java and kotlin
 - 💬 Ask me about anything (will try my best to answer it :-))
 - 📫 How to reach me: bhardwaj.vriddhi2000@gmail.com
-- ⚡ Fun fact: If not coding you'll probably find me singing(geeeeeez hehe I'm really good at it) or listening to music :-)
+- ⚡ Fun fact: If not coding you'll probably find me singing(geeeeeez I'm really good at it) or listening to music :-)
