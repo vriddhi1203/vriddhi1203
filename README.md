@@ -17,7 +17,7 @@
  <a href="https://www.facebook.com/vriddhi.bhardwaj.58/">
     <img src="https://github.com/vriddhi1203/vriddhi1203/blob/main/icons8-facebook-64.png" width="50" height="50"/>
   </a>&nbsp
- <a href="https://www.facebook.com/vriddhi.bhardwaj.58/">
+ <a href="https://www.instagram.com/bhardwaj_vriddhi/">
     <img src="https://github.com/vriddhi1203/vriddhi1203/blob/main/icons8-instagram-64.png" width="50" height="50"/>
   </a>&nbsp
   <br><br>
