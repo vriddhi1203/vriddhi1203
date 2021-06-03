@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/vriddhi-bhardwaj-207243189/">
   <img src="https://github.com/vriddhi1203/vriddhi1203/blob/main/icons8-linkedin-64.png" width="50" height="50"/>
   </a>&nbsp
-<a href="bhardwaj.vriddhi2000@gmail.com">
+<a href="mailto:bhardwaj.vriddhi2000@gmail.com">
   <img src="https://github.com/vriddhi1203/vriddhi1203/blob/main/icons8-gmail-48.png" width="50" height="50"/> 
   </a>&nbsp        
  <a href="https://linktr.ee/bhardwaj_vriddhi">
