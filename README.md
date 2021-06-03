@@ -3,7 +3,7 @@
 ## Contact me -
 <br />
 <a href="https://twitter.com/Vriddhi1203">
-  <img align="left" alt="Anurag Hazra | Twitter" width="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img alt="Anurag Hazra | Twitter" width="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>&nbsp
 <a href="https://www.linkedin.com/in/vriddhi-bhardwaj-207243189/">
   <img src="https://github.com/vriddhi1203/vriddhi1203/blob/main/icons8-linkedin-64.png" width="50" height="50"/>
