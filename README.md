@@ -1,8 +1,10 @@
 ### Bonjour!! I'm [Vriddhi :-)](https://linktr.ee/bhardwaj_vriddhi) 👋 
 
+Contact me -
 <a href="https://twitter.com/Vriddhi1203">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<br />
 <br />
 
 - 🔭 I’m currently working on my programming skills and Android Development
