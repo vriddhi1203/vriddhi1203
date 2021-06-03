@@ -1,4 +1,4 @@
-### Bonjour!! I'm [Vriddhi:)](https://linktr.ee/bhardwaj_vriddhi) 👋 
+### Bonjour!! I'm [Vriddhi :-)](https://linktr.ee/bhardwaj_vriddhi) 👋 
 
 - 🔭 I’m currently working on my programming skills and Android Development
 - 🌱 I’m currently learning Android Development and practising Competitive Programming
