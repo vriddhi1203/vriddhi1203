@@ -24,7 +24,8 @@
 
 ## GitHub Stats
 
-[![Vriddhi's github stats](https://github-readme-stats.vercel.app/api?username=vriddhi1203&show_icons=true&count_private=true)](https://github.com/vriddhi1203?tab=repositories) <br>
+[![Vriddhi's github stats](https://github-readme-stats.vercel.app/api?username=vriddhi1203&show_icons=true&count_private=true)](https://github.com/vriddhi1203?tab=repositories) 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vriddhi1203)
 <br />
 <br />
