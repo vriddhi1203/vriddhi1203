@@ -3,6 +3,7 @@
 <a href="https://twitter.com/Vriddhi1203">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<br />
 
 - 🔭 I’m currently working on my programming skills and Android Development
 - 🌱 I’m currently learning Android Development and practising Competitive Programming
