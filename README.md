@@ -1,5 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hiii !! I'm [Vriddhi](https://linktr.ee/bhardwaj_vriddhi) <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/emoji.gif" width="39px">
-#### <p align="center">We'll vibe better if you have an interest in music, singing, or coding <img src="https://github.com/vriddhi1203/vriddhi1203/blob/main/icons8-smiling-face-48.png" width="30" height="30"/> </p>  
+#### <p align="center">We'll vibe better if you have an interest in music <img src="https://github.com/vriddhi1203/vriddhi1203/blob/main/icons8-smiling-face-48.png" width="30" height="30"/> </p>  
 ## Connect/Reach out to me via -
 <br />
 <a href="https://twitter.com/Vriddhi1203">
